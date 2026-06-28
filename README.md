@@ -2,7 +2,7 @@
 
 GUI C# port of [Sprite Fusion Pixel Snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) — snaps messy pixel art onto a clean grid.
 
-The original tool is a Python script by Hugo Duprez. This repository reimplements the algorithm in C# (.NET 8) with a WPF desktop interface.
+The original tool is a Rust script by Hugo Duprez. This repository reimplements the algorithm in C# (.NET 8) with a WPF desktop interface.
 
 ## Requirements
 
